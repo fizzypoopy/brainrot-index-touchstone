@@ -1,0 +1,15 @@
+{'name': 'La Grande Combination', 'category': 'Secret', 'type': 'N/A', 'cost': 100000000000, 'profit': 12000000, 'profitSecs': 2, 'profitPerSec': 6000000.0, 'repayCostEstimate': 16666.666666666668, 'hr24Profit': 416000000000.0}
+{'name': 'Job Job Sahur', 'category': 'Secret', 'type': 'Gold, Snowy', 'cost': 72500000000, 'profit': 6750000, 'profitSecs': 2, 'profitPerSec': 3375000.0, 'repayCostEstimate': 21481.48148148148, 'hr24Profit': 217750000000.0}
+{'name': 'Tric Trac Barabum', 'category': 'Mythic', 'type': 'Gold', 'cost': 250000000, 'profit': 78750, 'profitSecs': 2, 'profitPerSec': 39375.0, 'repayCostEstimate': 6349.206349206349, 'hr24Profit': 3136250000.0}
+{'name': 'Sigma Boy', 'category': 'Legendary', 'type': 'Gold', 'cost': 50000000, 'profit': 27000, 'profitSecs': 2, 'profitPerSec': 13500.0, 'repayCostEstimate': 3703.703703703704, 'hr24Profit': 1111000000.0}
+{'name': 'Pipi Kiwi', 'category': 'Epic', 'type': 'N/A', 'cost': 4000000, 'profit': 5250, 'profitSecs': 2, 'profitPerSec': 2625.0, 'repayCostEstimate': 1523.8095238095239, 'hr24Profit': 221750000.0}
+{'name': 'Brr Brr Patapim', 'category': 'Epic', 'type': 'Gold', 'cost': 1500000, 'profit': 4500, 'profitSecs': 2, 'profitPerSec': 2250.0, 'repayCostEstimate': 666.6666666666666, 'hr24Profit': 192000000.0}
+{'name': 'Brr Brr Patapim', 'category': 'Epic', 'type': 'N/A', 'cost': 1500000, 'profit': 3000, 'profitSecs': 2, 'profitPerSec': 1500.0, 'repayCostEstimate': 1000.0, 'hr24Profit': 127500000.0}
+{'name': 'Tim Cheese', 'category': 'Rare', 'type': 'Snowy', 'cost': 225000, 'profit': 2480, 'profitSecs': 2, 'profitPerSec': 1240.0, 'repayCostEstimate': 181.4516129032258, 'hr24Profit': 106415000.0}
+{'name': 'Salamino Penguino', 'category': 'Rare', 'type': 'Diamond, Thunderstorm', 'cost': 80000, 'profit': 2400, 'profitSecs': 2, 'profitPerSec': 1200.0, 'repayCostEstimate': 66.66666666666667, 'hr24Profit': 103120000.0}
+{'name': 'Tim Cheese', 'category': 'Rare', 'type': 'N/A', 'cost': 225000, 'profit': 1120, 'profitSecs': 2, 'profitPerSec': 560.0, 'repayCostEstimate': 401.7857142857143, 'hr24Profit': 47935000.0}
+{'name': 'Salamino Penguino', 'category': 'Rare', 'type': 'N/A', 'cost': 80000, 'profit': 750, 'profitSecs': 2, 'profitPerSec': 375.0, 'repayCostEstimate': 213.33333333333334, 'hr24Profit': 32170000.0}
+{'name': 'Capuchino Assasino', 'category': 'Common', 'type': 'Gold, Snow', 'cost': 2000, 'profit': 405, 'profitSecs': 3, 'profitPerSec': 135.0, 'repayCostEstimate': 14.814814814814815, 'hr24Profit': 11608000.0}
+{'name': 'Pipi Potato', 'category': 'Uncommon', 'type': 'N/A', 'cost': 12000, 'profit': 300, 'profitSecs': 3, 'profitPerSec': 100.0, 'repayCostEstimate': 120.0, 'hr24Profit': 8588000.0}
+{'name': 'Capuchino Assasino', 'category': 'Common', 'type': 'N/A', 'cost': 2000, 'profit': 150, 'profitSecs': 3, 'profitPerSec': 50.0, 'repayCostEstimate': 40.0, 'hr24Profit': 4298000.0}
+{'name': 'Tung Tung Sahur', 'category': 'Common', 'type': 'N/A', 'cost': 100, 'profit': 100, 'profitSecs': 3, 'profitPerSec': 33.333333333333336, 'repayCostEstimate': 3.0, 'hr24Profit': 2866566.666666667}
